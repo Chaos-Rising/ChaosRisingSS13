@@ -1,29 +1,4 @@
-# Civilization 13
-
-[![Build Status](https://travis-ci.com/Civ13/Civ13.svg?branch=master)](https://travis-ci.com/Civ13/Civ13)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/civ13/civ13.svg?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/civ13/civ13.svg?style=flat)
-
-## WHAT IS THIS?
-
-Civ13 (formerly 1713) is a game based on Space Station 13 code, which features several epochs of human history. (hence the name). It features both RP and Combat maps and gamemodes.
-
-<kbd>
- <img src="https://i.imgur.com/napac0L.png">
-</kbd>
-
-
-## Civ13 Discord
-[![discord](https://discordapp.com/api/guilds/468979034571931648/widget.png)](https://discord.gg/hBEtg4x)
-
-
-## Official Website
-https://civ13.com/
-
-
-## Trello
-https://trello.com/b/DW0RQAEX
-
+#Chaos Rising
 
 ## Playing the game
 You will need a windows machine or a virtual machine running it from another OS.
@@ -41,7 +16,7 @@ You will need a windows machine or a virtual machine running it from another OS.
 
 ## Setting up a Server
 1. You will need a linux machine for the automated install, preferably Ubuntu. Open the command line.
- 
+
 2. Download the INSTALL file. You can use ***wget https://raw.githubusercontent.com/Civ13/Civ13/master/INSTALL*** for it. If you don't have wget installed, use ***sudo apt install wget*** first.
 
 3. Use **sudo bash INSTALL** and it should install everything you need.
